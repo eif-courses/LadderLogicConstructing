@@ -1,0 +1,11 @@
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\bin\Debug\Forma.exe.config
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\bin\Debug\Forma.exe
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\bin\Debug\Forma.pdb
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.csproj.AssemblyReference.cache
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.Properties.Resources.resources
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.csproj.GenerateResource.cache
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.csproj.CoreCompileInputs.cache
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.exe
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.pdb
+C:\Users\Marius\RiderProjects\ConsoleApp4\Forma\obj\Debug\Forma.Device.resources
