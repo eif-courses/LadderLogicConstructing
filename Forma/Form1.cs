@@ -145,9 +145,11 @@ namespace Forma
             
             
             //CheckLadderScript(ladderLogic);
+            richTextBox1.Clear();
             foreach (var it in inputs)
             {
-                MessageBox.Show($"{it.Key} {it.Value.IsOn}");    
+                richTextBox1.AppendText($"{it.Key} {it.Value.IsOn}\n");
+               // MessageBox.Show($"{it.Key} {it.Value.IsOn}");    
             }
           
         }
